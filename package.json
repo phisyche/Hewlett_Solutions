@@ -1,0 +1,19 @@
+{
+  "name": "Eshop",
+  "description": "A simple and powerful eshop solution.",
+  "version": "8.0.0",
+  "main": "release.js",
+  "dependencies": {
+    "paypal-express-checkout": "latest",
+    "pm2": "^2.9.3",
+    "total.js": "latest"
+  },
+  "scripts": {
+    "start": "node release.js"
+  },
+  "keywords": [
+    "eshop",
+    "ecommerce"
+  ],
+  "author": "Syche"
+}
