@@ -33,8 +33,8 @@ module.exports = {
       user : 'root',
       host : '45.32.30.252',
       ref  : 'origin/master',
-      repo : 'phisyche@github.com:Fortune_network.git',
-      path : '/var/www/Fortune_networks',
+      repo : 'phisyche@github.com: _network.git',
+      path : '/var/www/ _networks',
       'post-deploy' : 'npm install && pm2 reload ecosystem.config.js --env production'
     },
     dev : {
