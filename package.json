@@ -5,7 +5,7 @@
   "main": "release.js",
   "dependencies": {
     "paypal-express-checkout": "latest",
-    "pm2": "^2.9.3",
+    "pm2": "^2.10.1",
     "total.js": "latest"
   },
   "scripts": {
